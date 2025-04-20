@@ -1,0 +1,7 @@
+openseespy
+opsvis
+ezdxf
+matplotlib
+numpy
+tqdm
+pandas
